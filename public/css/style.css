@@ -1,0 +1,83 @@
+
+body{
+    background-color: azure !important;
+    
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    
+    position: sticky;
+}
+.navigation{
+    font-weight: lighter;
+    font-size: 100%;
+    font-family: "ma_police";
+    src: url("../font/Bangers-Regular.ttf");
+}
+
+.lien:hover {
+    text-decoration: none;
+    color: #00FF00 !important;
+}
+
+
+#head{
+background-image: url(../img/indexpage/handicap.jpg);
+width: 100%;
+height: 65vh;
+background-attachment: inherit;
+background-size:cover ;
+position: relative;
+border-radius: 2rem;
+
+}
+
+
+
+#secindex{
+    font-weight: lighter;
+    font-size: 200%;
+    font-family: "ma_police";
+src: url("../font/Bangers-Regular.ttf");
+}
+
+.imghandicape{
+    width: 100%;
+    height: 70%;
+    border-radius: 3rem;
+}
+.gallery{
+    width: 100%;
+    height: 85vh;
+    border-radius: 2rem;
+
+.buthaut{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 10px  ;
+   width: 50px;
+  font-weight: bold;
+  border-radius:2rem;
+}
+
+.buthaut:hover{
+    text-decoration: dotted;
+    color: red;
+}
+
+.mapss{
+    background-color:red;
+    background-size: 25vh;
+}
+
+/*.carousel .item {
+    height: 600px;
+  }
+.carousel img {
+    
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 600px;
+  }*/
